@@ -1,7 +1,7 @@
-Quantity,Name,price,,purpose
-1,Xiao rp2040,already available,,for microcontrolling
-16,cherry mx,already available,,the keys
-16,sk6812 mini-e,already available,,rgb lights which keep changing
-16,blank keycaps,already available,,to identify key
-16,1n4148 diode,already available,,to prevent ghosting of current
-4,M3 screws,already available,,to mount case
+Quantity,Name,price,purpose
+1,Xiao rp2040,already available,for microcontrolling
+16,cherry mx,already available,the keys
+16,sk6812 mini-e,already available,rgb lights which keep changing
+16,blank keycaps,already available,to identify key
+16,1n4148 diode,already available,to prevent ghosting of current
+4,M3 screws,already available,to mount case
